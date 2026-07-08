@@ -1,0 +1,8 @@
+{
+  "name": "refactor-pro",
+  "version": "0.1.0",
+  "description": "Safely refactor huge legacy codebases with a policy-driven workflow: intake / analysis / safety-net / wave-plan (single human approval) / gated autonomous execution / final verification. Behavior preservation via characterization tests and golden masters, deterministic shell gates (build / test-ratchet / lint-ratchet / scope / golden / size), adversarial LLM verification, a Chesterton's-Fence ledger for code nobody understands, and full resume support from an in-repo .refactor/ state directory.",
+  "author": {
+    "name": "m-aoki"
+  }
+}

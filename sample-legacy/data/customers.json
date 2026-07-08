@@ -1,0 +1,8 @@
+{
+  "customers": [
+    {"id": "C-001", "name": "Ajax Trading Co", "type": "GOLD", "since": "81-06"},
+    {"id": "C-002", "name": "Blackwood Supply", "type": "STANDARD", "since": "85-11"},
+    {"id": "C-003", "name": "Continental Wholesale", "type": "WHOLESALE", "since": "82-03"},
+    {"id": "C-004", "name": "Dunmore Hardware", "type": "WHOLESALE", "since": "79-09"}
+  ]
+}
